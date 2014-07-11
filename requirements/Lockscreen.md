@@ -1,6 +1,6 @@
 # Lockscreen Requirements
 
-Version: 07.2014.01
+Version: 2014.07.01
 
 ## Complete
 * Lock and unlock mechanism: kscreenlocker
