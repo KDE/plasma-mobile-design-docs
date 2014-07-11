@@ -9,6 +9,8 @@ Version: 07.2014.01
 ### Priority 1
 * Visual design for default screen locker
 * Basic QML layout with unlock interaction
+    * Code / password based
+    * Simple gesture-to-unlock
 * Status and notification area
     * Battery status
     * Network status
