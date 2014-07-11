@@ -1,6 +1,6 @@
 # <WHAT> Requirements
 
-Version: 07.2014.01
+Version: 2014.07.01
 
 ## Complete
 
@@ -30,6 +30,10 @@ Version: 07.2014.01
     * hold
     * hangup
     * logs
+* QML components
+    * beyond the standard Plasma and Qt QML, we will need to resurrect
+      some components from plasma-mobile which are still QML1 based.
+      Example: copy and paste interaction
 
 ## Rejected
 
