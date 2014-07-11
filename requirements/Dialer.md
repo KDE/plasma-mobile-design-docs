@@ -1,6 +1,6 @@
 # Dialer Requirements
 
-Version: 07.2014.01
+Version: 2014.07.01
 
 ## Complete
 
@@ -8,7 +8,7 @@ Version: 07.2014.01
 ### Priority 1
 * Number pad
     * 0-9, *, #, +, call
-* Enter text
+* Enter text (e.g. 1-800-Pizza)
 * Contact/number display
     * ability to delete contents
 * Call in progress view
@@ -38,6 +38,7 @@ Version: 07.2014.01
     * Hold
 * 3-way calling
 * Past calls (logs)
+* Non-GSM calling integration (e.g. VOIP)
 
 ## Rejected
 
