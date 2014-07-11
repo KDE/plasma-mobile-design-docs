@@ -1,6 +1,6 @@
 # <WHAT> Requirements
 
-Version: DD.YYYY.REV
+Version: YYYY.MM.REV
 
 ## Complete
 
