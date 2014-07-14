@@ -2,6 +2,9 @@
 
 Version: 2014.07.01
 
+Will collaborate on this with Maui project (Pier Luigi) as they also need
+a pure-QML settings panel shell.
+
 ## Complete
 
 ## Ready
