@@ -4,13 +4,14 @@ Version: 2014.07.01
 
 ## Complete
 * Lock and unlock mechanism: kscreenlocker
+* Visual design for default screen locker
 
 ## Ready
 ### Priority 1
-* Visual design for default screen locker
 * Basic QML layout with unlock interaction
     * Code / password based
     * Simple gesture-to-unlock
+    * Emergency Call button when locked
 * Status and notification area
     * Battery status
     * Network status
