@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="300"
+   id="svg3797"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 4">
+  <defs
+     id="defs3799">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4359">
+      <stop
+         style="stop-color:#eddf00;stop-opacity:1;"
+         offset="0"
+         id="stop4361" />
+      <stop
+         style="stop-color:#eddf00;stop-opacity:0;"
+         offset="1"
+         id="stop4363" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4359"
+       id="linearGradient4365"
+       x1="566"
+       y1="0"
+       x2="566"
+       y2="300"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Roughen inside"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Roughen all inside shapes"
+       color-interpolation-filters="sRGB"
+       id="filter4369">
+      <feTurbulence
+         numOctaves="5"
+         seed="0"
+         type="fractalNoise"
+         baseFrequency="0.08"
+         id="feTurbulence4371" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result91"
+         id="feGaussianBlur4373" />
+      <feDisplacementMap
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         result="result1"
+         in2="result91"
+         id="feDisplacementMap4375" />
+      <feComposite
+         in="result1"
+         in2="SourceGraphic"
+         operator="atop"
+         id="feComposite4377" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4359-1"
+       id="linearGradient4365-6"
+       x1="566"
+       y1="0"
+       x2="566"
+       y2="300"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4359-1">
+      <stop
+         style="stop-color:#eddf00;stop-opacity:1;"
+         offset="0"
+         id="stop4361-9" />
+      <stop
+         style="stop-color:#eddf00;stop-opacity:0;"
+         offset="1"
+         id="stop4363-9" />
+    </linearGradient>
+    <filter
+       inkscape:label="Roughen inside"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Roughen all inside shapes"
+       color-interpolation-filters="sRGB"
+       id="filter4369-4">
+      <feTurbulence
+         numOctaves="5"
+         seed="0"
+         type="fractalNoise"
+         baseFrequency="0.08"
+         id="feTurbulence4371-4" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result91"
+         id="feGaussianBlur4373-5" />
+      <feDisplacementMap
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         result="result1"
+         in2="result91"
+         id="feDisplacementMap4375-3" />
+      <feComposite
+         in="result1"
+         in2="SourceGraphic"
+         operator="atop"
+         id="feComposite4377-2" />
+    </filter>
+    <linearGradient
+       gradientTransform="translate(0,468)"
+       y2="300"
+       x2="566"
+       y1="0"
+       x1="566"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4439"
+       xlink:href="#linearGradient4359-1"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="433.95289"
+     inkscape:cy="-10.808693"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="732"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,262.86695"
+       id="guide3805" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="98.191407,300"
+       id="guide3807" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="464.6875,0"
+       id="guide3809" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1080,231.94922"
+       id="guide3811" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="566,197"
+       id="guide4367" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3802">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-468)"
+     style="display:inline;opacity:1">
+    <g
+       id="g4468">
+      <rect
+         ry="7.6468301"
+         y="468"
+         x="0"
+         height="300"
+         width="1080"
+         id="rect3813"
+         style="color:#000000;fill:#eddf00;fill-opacity:0.5;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         ry="7.6468301"
+         y="468"
+         x="0"
+         height="300"
+         width="1080"
+         id="rect3813-7"
+         style="color:#000000;fill:url(#linearGradient4439);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4369-4);enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
